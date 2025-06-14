@@ -12,7 +12,8 @@ lerna-debug.log*
 
 # Caches
 
-*.md
+wishlist.md
+seo.md
 *.sh
 *.log
 
