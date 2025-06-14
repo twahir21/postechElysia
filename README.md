@@ -49,9 +49,10 @@ JWT_SECRET=your_super_secret_key
 PORT=3000
 ```
 
-### Other Dependencies
+### 🤝 Other Dependencies
 
 - Bunx
 - Postgres.js
 - clickpesa
-- 
+
+---
