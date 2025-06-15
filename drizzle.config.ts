@@ -9,6 +9,6 @@ export default defineConfig({
     url:
         process.env.NODE_ENV === 'development'
                       ? process.env.POSTGRES_URL_LOCAL!
-                      : process.env.POSTGRES_URL_LOCAL!
+                      : process.env.NEON_URL!
   },
 });
